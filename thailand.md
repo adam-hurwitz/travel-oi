@@ -14,7 +14,14 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Accommodations
 
-#### Aggregators
+*See [open info](https://docs.google.com/document/d/17dD4YedWuiw-Q7GSv9WCC2rYfsLmLZoqqXzWitLhXlg/edit#heading=h.ygdbv0hsp0tk)*
 
-- [RentHub](https://www.renthub.in.th/en)
-- [hongpak](https://www.hongpak.in.th/en)
+## Local aggregators
+
+#### RentHub
+
+- Site: [renthub.in.th/en](https://www.renthub.in.th/en)
+
+#### hongpak
+
+- Site: [hongpak.in.th/en](https://www.hongpak.in.th/en)
