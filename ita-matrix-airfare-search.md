@@ -47,12 +47,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
             - Separate with a comma `,`
             - E.g. `UA,AA`
     - *Extension Codes*
-        - Amount of layover time
+        - Amount of layover time: [Types](https://docs.google.com/document/d/1iA4uXOnxMFq0qf2WtdDk7h4SXkXa8Sv7vrM1aB1haHQ/edit#heading=h.2p4y9q4msxy8)
             - `minconnect:HHMM`
-            - Types
-                - Transfer: < 4 hours
-                - Stopover: > 4 hours and < 24 hours
-                - Open jaw: > 24 hours
             - Use a long minimum time to force overnight layovers
         - etc.
         - Multiple codes
