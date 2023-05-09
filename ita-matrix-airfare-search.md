@@ -23,13 +23,20 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Feedback: [matrix.itasoftware.com/search](https://matrix.itasoftware.com/search) > *Feedback*
 
 #### Versions
+
 - New: [matrix.itasoftware.com](https://matrix.itasoftware.com)
 - Old: [oldmatrix.itasoftware.com](https://oldmatrix.itasoftware.com)
-- To research
-    - Are there any differences in the search parameters between the 2 versions?
-        - *Reverse results* not included in the new version
-    - Is it possible to save searches?
-    - Is there a difference in cost between Open jaws and multiple trips?
+
+#### Advanced features not included in Google Flights
+
+- Not as advanced *Routing Codes* and *Extension Codes*
+
+#### To research
+
+- Are there any differences in the search parameters between the 2 versions?
+    - *Reverse results* not included in the new version
+- Is it possible to save searches?
+- Is there a difference in cost between open jaws and multiple trips?
 
 # Parameters
 
