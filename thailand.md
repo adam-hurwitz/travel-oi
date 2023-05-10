@@ -41,9 +41,17 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Verified listings
     - Host review and/or ranking system
 
-#### To research
-
-- Do most apartment buildings in Chiang Mai accept credit cards for monthly stays?
+## Payments
+   
+- Most monthly stays accept cash-only payments or bank transfers, e.g. [Wise.com](https://wise.com/)
+- Potential workaround to use credit card reported in the expats forum
+    - Top up your Revolut account with a credit card.
+        - Make sure there are no fees.
+    - Top up Wise with a Revolut wire transfer.
+        - Make sure there are no fees.
+    - Use Wise to make payments
+        - Set up Thai bank account to pay local vendors with Wise
+- *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/1768459950111949/permalink/3212227705735159) in Chiang Mai - Expats & Locals Living in Chiang Mai 2023-05-09*
 
 # Driving
 
