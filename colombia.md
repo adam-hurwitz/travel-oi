@@ -7,9 +7,9 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 <h1 style="text-align: center;">🇨🇴 Colombia</h1>
 
-# Places
+# Cities
 
-- Bogotà: [Open info](https://docs.google.com/document/d/1oMNvQ53nUcUR7P0hFT-70C6E65Nuo44QUn8qMmT5tfs/edit#heading=h.2611lrpcn683)
+- Bogotà: [Open info](https://hackmd.io/@openinfo/bogotá)
 
 # Accommodations
 
@@ -20,3 +20,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 #### VICO
 
 - Site: [getvico.com](https://getvico.com)
+
+## Facebook groups
+
+E.g.
+
+- ExPats in Colombia: [facebook.com/groups/286959741487861](https://www.facebook.com/groups/286959741487861)
+- Digital Nomads Colombia: [facebook.com/groups/digitalnomadscolombia](https://www.facebook.com/groups/digitalnomadscolombia)
+- Expats in Colombia: [facebook.com/groups/381458688604196](https://www.facebook.com/groups/381458688604196/)
