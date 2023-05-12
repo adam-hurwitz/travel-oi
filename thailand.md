@@ -59,6 +59,12 @@ E.g.
         - Set up Thai bank account to pay local vendors with Wise
 - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/1768459950111949/permalink/3212227705735159) in Chiang Mai - Expats & Locals Living in Chiang Mai 2023-05-09*
 
+## Electricity and water
+
+- Sometimes included or not included in the price of monthly stays
+- Find what the current government set rates are
+- E.g. May be up to 1,350 THB ($40) *2023-05-11*
+
 # Driving
 
 #### About
