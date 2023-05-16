@@ -48,7 +48,9 @@ E.g.
 - Expats in Thailand: [facebook.com/groups/expatsinthai](https://www.facebook.com/groups/expatsinthai)
 
 ## Payments
-   
+
+#### Credit cards
+
 - Most monthly stays accept cash-only payments or bank transfers, e.g. [Wise.com](https://wise.com/)
 - Potential workaround to use credit card reported in the expats forum
     - Top up your Revolut account with a credit card.
@@ -58,6 +60,13 @@ E.g.
     - Use Wise to make payments
         - Set up Thai bank account to pay local vendors with Wise
 - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/1768459950111949/permalink/3212227705735159) in Chiang Mai - Expats & Locals Living in Chiang Mai 2023-05-09*
+
+#### Pro-rate partial months
+
+- You can start rentals mid month on arrival.
+- Rentals start on the day you move in.
+- Check with the property/owner for pro-rating
+- *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/1768459950111949/permalink/3216200212004575) in Chiang Mai - Expats & Locals Living in Chiang Mai 2023-05-15*
 
 ## Electricity and water
 
