@@ -28,3 +28,7 @@ E.g.
 - ExPats in Colombia: [facebook.com/groups/286959741487861](https://www.facebook.com/groups/286959741487861)
 - Digital Nomads Colombia: [facebook.com/groups/digitalnomadscolombia](https://www.facebook.com/groups/digitalnomadscolombia)
 - Expats in Colombia: [facebook.com/groups/381458688604196](https://www.facebook.com/groups/381458688604196/)
+
+# Transit
+
+- Use known apps, e.g. Uber, Lyft, and local equivalents, instead of hailing taxis

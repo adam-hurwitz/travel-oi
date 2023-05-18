@@ -21,6 +21,8 @@ E.g.
 
 # Transit
 
+*See Colombia [transit open info](https://hackmd.io/@openinfo/colombia#Transit)*
+
 ## TransMilenio
 
 #### About
@@ -55,6 +57,7 @@ E.g.
 
 #### Resources
 
+- [Bogota: Bike Friendly City](https://www.colombia.co/en/colombia-travel/bogota-bike-friendly-city) *by colombia.co*
 - [How Bogotá Became a World-Beating Cycling Haven](https://www.timeout.com/news/how-bogota-became-a-world-beating-cycling-haven-110421) *by TimeOut 2021-11-04*
 
 # Resources
