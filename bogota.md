@@ -12,16 +12,21 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 *See Colombia open info: [hackmd.io/@openinfo/colombia](https://hackmd.io/@openinfo/colombia)*
 
 
-## Facebook groups
+## Social media
+
+#### Facebook
 
 E.g.
 
 - Expats in Bogotá: [facebook.com/groups/2019185021704156](https://www.facebook.com/groups/2019185021704156)
 
+#### Reddit
+
+- [r/Bogota](https://www.reddit.com/r/Bogota)
 
 # Transit
 
-*See Colombia [transit open info](https://hackmd.io/@openinfo/colombia#Transit)*
+*See Colombia [transit open info ](https://hackmd.io/@openinfo/colombia#Transit)*
 
 ## TransMilenio
 
@@ -69,6 +74,12 @@ E.g.
     - Mixed reviews on safety at night
     - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/2019185021704156/permalink/3747731635516144) *in Expats in Bogotá 2023-05-10* (Private)*
 - [Is Bogota Safe for Travel? (Insider Tips 2023)](https://www.thebrokebackpacker.com/is-bogota-safe) *by The Broke Backpacker 2023-05-02*
+
+#### Art
+
+- San Felipe art festival
+    - Site: [opensanfelipe.com](https://www.opensanfelipe.com/)
+    - Instagram: [instagram.com/opensanfelipe](https://www.instagram.com/opensanfelipe)
 
 #### Videos
 

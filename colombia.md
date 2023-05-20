@@ -21,13 +21,19 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - Site: [getvico.com](https://getvico.com)
 
-## Facebook groups
+## Social media
+
+#### Facebook groups
 
 E.g.
 
 - ExPats in Colombia: [facebook.com/groups/286959741487861](https://www.facebook.com/groups/286959741487861)
 - Digital Nomads Colombia: [facebook.com/groups/digitalnomadscolombia](https://www.facebook.com/groups/digitalnomadscolombia)
 - Expats in Colombia: [facebook.com/groups/381458688604196](https://www.facebook.com/groups/381458688604196/)
+
+#### Reddit
+
+- [r/Colombia](https://www.reddit.com/r/Colombia/)
 
 # Transit
 
