@@ -75,6 +75,11 @@ E.g.
     - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/2019185021704156/permalink/3747731635516144) *in Expats in Bogotá 2023-05-10* (Private)*
 - [Is Bogota Safe for Travel? (Insider Tips 2023)](https://www.thebrokebackpacker.com/is-bogota-safe) *by The Broke Backpacker 2023-05-02*
 
+#### Markets
+
+- Paloquemao Market in La Candelaria
+    - [Tasting Some of the Wildest Fruit at Bogotá's Paloquemao Market — Vox Borders with Johnny Harris](https://www.youtube.com/watch?v=Oq7qbXcmba0) *on YouTube*
+
 #### Art
 
 - San Felipe art festival
