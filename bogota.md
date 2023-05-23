@@ -9,7 +9,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Accommodations
 
-*See Colombia open info: [hackmd.io/@openinfo/colombia](https://hackmd.io/@openinfo/colombia)*
+- Colombia open info: [hackmd.io/@openinfo/colombia](https://hackmd.io/@openinfo/colombia)
+- [Neighborhoods open info](https://docs.google.com/spreadsheets/d/12Bd-2KRwsW8OuQs1QuaAnff5cdECcdHs0QDMvsIOsNs/edit#gid=0&fvid=1522371501)
 
 
 ## Social media
