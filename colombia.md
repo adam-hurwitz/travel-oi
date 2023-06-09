@@ -38,3 +38,22 @@ E.g.
 # Transit
 
 - Use known apps, e.g. Uber, Lyft, and local equivalents, instead of hailing taxis
+
+# Entry requirements
+
+#### Visas
+
+- Travelers from many countries can visit with a ≤ 90 day tourist visa.
+    - ≤ 180 cumulative days within a calendar year
+    - Extensions are available for an additional ≤ 90 days: [Migración Ministerio De Relaciones Exteriores](https://www.migracioncolombia.gov.co/component/sppagebuilder/48-aun-estas-a-tiempo)
+- Resources
+    - [Colombia](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html) *by travel.state.gov (US)*
+    - [Visas and Embassies](https://colombia.travel/en/practical-information/visas-and-embassies) *by colombia.travel*
+        - *Visa for digital nomads*
+            - For ≤ 2 years
+            - [Digital Nomads: Colombia is your office](https://colombia.travel/en/blog/digital-nomads-colombia-is-your-office)
+    - [Do I need a visa to travel to Colombia?](https://www.lonelyplanet.com/articles/visa-requirements-for-colombia) *by Lonely Planet 2022-03-24*
+
+#### Complete the migration form < 72 hours of flying
+
+- [Online Check-Mig Form](https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf)
