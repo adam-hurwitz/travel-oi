@@ -33,7 +33,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 - You're charged when the reservation is booked and accepted by the host: [When you’ll pay for your reservation](https://www.airbnb.com/help/article/92)
 - Some reservations are eligible to be paid over a time period: [Payment plans](https://www.airbnb.com/help/article/2143/)
-- [Cancellations of monthly stays](https://www.airbnb.com/help/article/1361)
+- Monthly stays
+    - Payments are divided into multiple amounts
+    - Contact support to make early payment(s)
+    - [Pay for a monthly stay](https://www.airbnb.com/help/article/245)
+    - [Cancellations of monthly stays](https://www.airbnb.com/help/article/1361)
 
 # Community and support
 
@@ -64,4 +68,4 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Save > 100 listings to a wishlist
 - Choose how to pay for monthly stays
     - 1 payment instead of it being divided by default
-    - *See [Pay for a monthly stay](https://www.airbnb.com/help/article/245)*
+    - *See [payments](#Payments)*
