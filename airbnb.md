@@ -38,6 +38,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Contact support to make early payment(s)
     - [Pay for a monthly stay](https://www.airbnb.com/help/article/245)
     - [Cancellations of monthly stays](https://www.airbnb.com/help/article/1361)
+- Cannot use gift cards for existing or upcoming reservation payments
+    - *See [US Gift Card Terms and Conditions](https://www.airbnb.com/help/article/2872)*
 
 # Community and support
 
