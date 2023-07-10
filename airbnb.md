@@ -36,9 +36,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Monthly stays
     - Payments are divided into multiple amounts
     - Contact support to make early payment(s)
-    - [Pay for a monthly stay](https://www.airbnb.com/help/article/245)
-    - [Cancellations of monthly stays](https://www.airbnb.com/help/article/1361)
-- Cannot use gift cards for existing or upcoming reservation payments
+    - Resources
+        - [Pay for a monthly stay](https://www.airbnb.com/help/article/245)
+        - [Cancellations of monthly stays](https://www.airbnb.com/help/article/1361)
+- Use gift cards for existing or upcoming reservation payments
+    - Steps
+        1. Add the gift card to your account: Profile button (Top-right navigation menu) > *Account* > *Payments & payouts* > *Airbnb gift credit* > Select *Add gift card*.
+        2. Apply the gift card to to an existing trip: Profile button > *Trips* > Select the trip > Select *Get Receipts and manage payments* (Left navigation menu at the bottom) > Select *Edit payment details* > Select *Manage* next to *$X.XX credits applied* > Add the gift card amount.
     - *See [US Gift Card Terms and Conditions](https://www.airbnb.com/help/article/2872)*
 
 # Community and support
