@@ -39,6 +39,13 @@ E.g.
 
 - Use known apps, e.g. Uber, Lyft, and local equivalents, instead of hailing taxis
 
+# Shopping
+
+#### Exito
+
+- Site: [exito.com](https://www.exito.com/)
+- Groceries, home, clothes, and electronics
+
 # Entry requirements
 
 #### Visas
