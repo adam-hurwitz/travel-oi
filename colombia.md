@@ -43,8 +43,13 @@ E.g.
 
 #### Exito
 
-- Site: [exito.com](https://www.exito.com/)
+- Site: [exito.com](https://www.exito.com)
 - Groceries, home, clothes, and electronics
+
+#### Ktronix
+
+- Site: [ktronix.com](https://www.ktronix.com)
+- Electronics
 
 # Entry requirements
 
