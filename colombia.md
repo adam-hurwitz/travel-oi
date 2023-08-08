@@ -69,3 +69,12 @@ E.g.
 #### Complete the migration form < 72 hours of flying
 
 - [Online Check-Mig Form](https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf)
+
+# Safety
+
+- Emergencies: 123 (English speaking)
+- Tourist police: 337-4413
+- US: Contact the US Embassy
+    - +57-601-275-2000
+    - 24/7 line: +57-601-275-4021
+    - *See [Travel.State.Gov > Safety and Security](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html)*
