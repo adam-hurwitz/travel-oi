@@ -68,7 +68,7 @@ E.g.
 
 #### Complete the migration form < 72 hours of flying
 
-- [Online Check-Mig Form](https://apps.migracioncolombia.gov.co/pre-registro/public/preregistro.jsf)
+- [Online Check-Mig Form](https://apps.migracioncolombia.gov.co/pre-registro)
 
 # Safety
 
