@@ -41,15 +41,29 @@ E.g.
 
 # Shopping
 
+## In-store
+
 #### Exito
 
 - Site: [exito.com](https://www.exito.com)
-- Groceries, home, clothes, and electronics
+- About: Groceries, home, clothes, and electronics
 
 #### Ktronix
 
 - Site: [ktronix.com](https://www.ktronix.com)
-- Electronics
+- About: Electronics
+
+## Online
+
+#### Rappi
+
+- Site: [rappi.com](https://rappi.com)
+- About: Realtime grocery deliveries and more
+
+#### Mercado Libre
+
+- Site: [mercadolibre.com](https://mercadolibre.com/)
+- About: Online shopping
 
 # Entry requirements
 
