@@ -48,8 +48,11 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 # Community and support
 
 - Support call/chat/message
+    - *See [Get help or contact Airbnb Support](https://www.airbnb.com/help/article/1542)*
     - Profile button (Top right) > *Trips* > Select your trip > Scroll down to the bottom of the left hand menu to *Get support anytime*.
-    - Phone: [415-800-5959](tel:+1415-800-5959)
+    - Phone
+        - [844-234-2500](tel:+1844-234-2500)
+        - [415-800-5959](tel:+1415-800-5959)
 - Twitter
     - [@AirbnbHelp](https://twitter.com/AirbnbHelp)
     - [@Airbnb](https://twitter.com/Airbnb)
