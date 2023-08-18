@@ -37,7 +37,12 @@ E.g.
 
 # Transit
 
-- Use known apps, e.g. Uber, Lyft, and local equivalents, instead of hailing taxis
+- Use known apps, e.g. Uber, Lyft, and local equivalents (Cabify), instead of hailing taxis.
+
+# Phones
+
+- Use [WhatsApp](https://www.whatsapp.com/) to make calls
+- Local data plans are likely cheaper than using an international data plan.
 
 # Shopping
 

@@ -66,15 +66,21 @@ E.g.
 - [Bogota: Bike Friendly City](https://www.colombia.co/en/colombia-travel/bogota-bike-friendly-city) *by colombia.co*
 - [How Bogotá Became a World-Beating Cycling Haven](https://www.timeout.com/news/how-bogota-became-a-world-beating-cycling-haven-110421) *by TimeOut 2021-11-04*
 
-# Resources
+# Safety
 
-#### Safety
+#### Neighborhoods
 
 - [The Best & Safest Neighborhoods To Stay In Bogotá, Colombia](https://bogotivo.com/en/best-bogota-neighborhoods) *by Bogotivo 2022-07-16*
 - La Candelaria
     - Mixed reviews on safety at night
     - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/2019185021704156/permalink/3747731635516144) *in Expats in Bogotá 2023-05-10* (Private)*
 - [Is Bogota Safe for Travel? (Insider Tips 2023)](https://www.thebrokebackpacker.com/is-bogota-safe) *by The Broke Backpacker 2023-05-02*
+
+#### Tap water
+
+- [Is Bogota Tap Water Safe To Drink?](https://www.tapsafe.org/bogota-tap-water) *by tapsafe.org*
+
+# Related topics
 
 #### Markets
 
