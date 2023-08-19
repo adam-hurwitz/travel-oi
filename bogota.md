@@ -58,12 +58,19 @@ E.g.
 
 #### About
 
-- Public bikes are available to rent in most places.
-- Many bike lanes
+- Rent public bikes with Tembici
+    - Site: [tembici.com.co](https://tembici.com.co/en/)
+    - About
+        - Sign up with a passport
+        - [Tembici raises $47M Series B to expand its fleet of electric bikes](https://techcrunch.com/2020/06/03/tembici-raises-47m-series-b-to-expand-its-fleet-of-electric-bikes) *by TechCrunch*
+    - Opportunity: Integrate with Google and Apple pay
+- Many bike lanes, e.g. Carrera 7 (La Séptima)
 
 #### Resources
 
 - [Bogota: Bike Friendly City](https://www.colombia.co/en/colombia-travel/bogota-bike-friendly-city) *by colombia.co*
+- [The Transformation of Carrera Séptima into Bogotá’s first Green Corridor](https://revista.drclas.harvard.edu/the-transformation-of-carrera-septima-into-bogotas-first-green-corridor) *by ReVista (Harvard Review of Latin America)*
+- [Bogotá's weekly car-free Ciclovia gives visitors and locals a chance to explore by bike](https://www.lonelyplanet.com/articles/bike-ciclovia-de-bogota) *by Lonely Planet*
 - [How Bogotá Became a World-Beating Cycling Haven](https://www.timeout.com/news/how-bogota-became-a-world-beating-cycling-haven-110421) *by TimeOut 2021-11-04*
 
 # Safety
