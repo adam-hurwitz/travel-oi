@@ -53,6 +53,11 @@ E.g.
 - Site: [exito.com](https://www.exito.com)
 - About: Groceries, home, clothes, and electronics
 
+#### Farmatodo
+
+- Site: [farmatodo.com.co](https://www.farmatodo.com.co)
+- About: Pharmacy
+
 #### Ktronix
 
 - Site: [ktronix.com](https://www.ktronix.com)
