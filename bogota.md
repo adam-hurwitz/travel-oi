@@ -64,7 +64,7 @@ E.g.
         - Sign up with a passport
         - [Tembici raises $47M Series B to expand its fleet of electric bikes](https://techcrunch.com/2020/06/03/tembici-raises-47m-series-b-to-expand-its-fleet-of-electric-bikes) *by TechCrunch*
     - Opportunity: Integrate with Google and Apple pay
-- Many bike lanes, e.g. Carrera 7 (La Séptima)
+- Many bike lanes, e.g. Carrera 7 (La Séptima) and 11
 
 #### Resources
 
