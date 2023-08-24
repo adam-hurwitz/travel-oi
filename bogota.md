@@ -92,6 +92,8 @@ E.g.
 #### Markets
 
 - Paloquemao Market in La Candelaria
+    - [Google map](https://goo.gl/maps/uAKNStbAxCM4jQKY6)
+    - How much cash to bring: 25-30k COP ([~$7.38](https://duckduckgo.com/?q=30000+COP+to+USD&t=ffab&atb=v317-1&ia=currency) *2023-08-24*)
     - [Tasting Some of the Wildest Fruit at Bogotá's Paloquemao Market — Vox Borders with Johnny Harris](https://www.youtube.com/watch?v=Oq7qbXcmba0) *on YouTube*
 
 #### Art
