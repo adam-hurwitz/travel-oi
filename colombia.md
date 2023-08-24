@@ -102,3 +102,7 @@ E.g.
     - +57-601-275-2000
     - 24/7 line: +57-601-275-4021
     - *See [Travel.State.Gov > Safety and Security](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html)*
+
+# Related topics
+
+- [gringotuesdays.co](https://www.gringotuesdays.co/)
