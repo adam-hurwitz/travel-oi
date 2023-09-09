@@ -85,7 +85,16 @@ E.g.
 
 #### Tap water
 
-- [Is Bogota Tap Water Safe To Drink?](https://www.tapsafe.org/bogota-tap-water) *by tapsafe.org*
+- Mostly safe
+- Better to drink bottled water if possible
+    - Tap water is treated with Chlorine
+        - [Chlorine in Drinking Water: The Good, the Bad, and the Ugly](https://www.springwellwater.com/chlorine-drinking-water-good-bad-ugly) *by SpringWell Water Filtration Systems*
+        - [Drinking Water Chlorination: Frequently Asked Questions](https://www.health.state.mn.us/communities/environment/water/factsheet/chlorination.html) *by Minnesota Department of Health*
+    - Water quality can decrease in between the treatment plants and local infrastructure
+- Resources
+    - [Is Bogota Tap Water Safe To Drink?](https://www.tapsafe.org/bogota-tap-water) *by tapsafe.org*
+    - [Can you drink the tap water in Bogotá (Colombia)?](https://tapwaterpro.com/bogot-colombia) *by tapwaterpro.org*
+    - [Can you drink the tap water in Bogotá, Colombia?](https://www.myadventurereport.com/water-report/can-you-drink-the-tap-water-in-bogot-colombia) *by My Adventure Report*
 
 # Related topics
 
