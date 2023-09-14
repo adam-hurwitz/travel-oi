@@ -25,6 +25,16 @@ E.g.
 
 - [r/Bogota](https://www.reddit.com/r/Bogota)
 
+# Markets and food
+
+- Paloquemao Market in La Candelaria
+    - [Google map](https://goo.gl/maps/uAKNStbAxCM4jQKY6)
+    - How much cash to bring: 25-30k COP per person ([~$7.38](https://duckduckgo.com/?q=30000+COP+to+USD&t=ffab&atb=v317-1&ia=currency) *2023-08-24*)
+    - [Tasting Some of the Wildest Fruit at Bogotá's Paloquemao Market — Vox Borders with Johnny Harris](https://www.youtube.com/watch?v=Oq7qbXcmba0) *on YouTube*
+- La Perseverancia marketplace
+    - [Google map](https://goo.gl/maps/Nn4EURvAZD3xaBhdA)
+    - [Bogotá, Colombia](https://www.netflix.com/title/81249660) episode *of Street Food Latin America on Netflix*
+
 # Transit
 
 *See Colombia [transit open info ](https://hackmd.io/@openinfo/colombia#Transit)*
@@ -98,13 +108,6 @@ E.g.
 
 # Related topics
 
-#### Markets
-
-- Paloquemao Market in La Candelaria
-    - [Google map](https://goo.gl/maps/uAKNStbAxCM4jQKY6)
-    - How much cash to bring: 25-30k COP ([~$7.38](https://duckduckgo.com/?q=30000+COP+to+USD&t=ffab&atb=v317-1&ia=currency) *2023-08-24*)
-    - [Tasting Some of the Wildest Fruit at Bogotá's Paloquemao Market — Vox Borders with Johnny Harris](https://www.youtube.com/watch?v=Oq7qbXcmba0) *on YouTube*
-
 #### Neighborhood events
 
 - Distrito Chapinero
@@ -112,6 +115,10 @@ E.g.
 - San Felipe art festival
     - Site: [opensanfelipe.com](https://www.opensanfelipe.com/)
     - Instagram: [instagram.com/opensanfelipe](https://www.instagram.com/opensanfelipe)
+
+#### Outdoor gyms
+
+- [Gyms to the park](https://www.idrd.gov.co/recreacion/actividad-fisica-y-deporte/actividad-fisica/gimnasios-al-parque) *by Instituto Distrital de Recreación y Deporte (IDRD)*
 
 #### Videos
 
