@@ -15,25 +15,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 *See [open info](https://docs.google.com/document/d/17dD4YedWuiw-Q7GSv9WCC2rYfsLmLZoqqXzWitLhXlg/edit#heading=h.ygdbv0hsp0tk)*
 
-## Local aggregators
+#### Local aggregators
 
-#### VICO
-
-- Site: [getvico.com](https://getvico.com)
-
-## Social media
-
-#### Facebook groups
-
-E.g.
-
-- ExPats in Colombia: [facebook.com/groups/286959741487861](https://www.facebook.com/groups/286959741487861)
-- Digital Nomads Colombia: [facebook.com/groups/digitalnomadscolombia](https://www.facebook.com/groups/digitalnomadscolombia)
-- Expats in Colombia: [facebook.com/groups/381458688604196](https://www.facebook.com/groups/381458688604196/)
-
-#### Reddit
-
-- [r/Colombia](https://www.reddit.com/r/Colombia/)
+- VICO
+    - Site: [getvico.com](https://getvico.com)
 
 # Transit
 
@@ -103,6 +88,20 @@ E.g.
     - 24/7 line: +57-601-275-4021
     - *See [Travel.State.Gov > Safety and Security](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Colombia.html)*
 
+# Social media
+
+#### Facebook groups
+
+E.g.
+
+- ExPats in Colombia: [facebook.com/groups/286959741487861](https://www.facebook.com/groups/286959741487861)
+- Digital Nomads Colombia: [facebook.com/groups/digitalnomadscolombia](https://www.facebook.com/groups/digitalnomadscolombia)
+- Expats in Colombia: [facebook.com/groups/381458688604196](https://www.facebook.com/groups/381458688604196/)
+
+#### Reddit
+
+- [r/Colombia](https://www.reddit.com/r/Colombia/)
+
 # Related topics
 
-- [gringotuesdays.co](https://www.gringotuesdays.co/)
+- [gringotuesdays.co](https://www.gringotuesdays.co)
