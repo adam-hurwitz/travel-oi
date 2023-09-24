@@ -22,7 +22,18 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Transit
 
-- Use known apps, e.g. Uber, Lyft, and local equivalents (Cabify), instead of hailing taxis.
+- Not a good idea to hail taxis
+- Use known international apps, e.g. Uber
+- Local equivalents
+    - Cabify
+        - Requires a non US phone number
+            - A phone number comes with a local [data plan](https://docs.google.com/spreadsheets/d/1E06798t3hu-oI7vYvKtKmP2bE7TXh_op5RnBISlwgRM/edit#gid=0&fvid=1551446493)
+        - [Based in Spain](https://cabify.com/en/about-us)
+    - inDrive
+        - Use cash or Colombian bank account
+        - [Based in Kazakhstan and Cyprus](https://en.wikipedia.org/wiki/InDrive) (Moved from Russia after Ukranian invasion)
+    - Didi
+        - [Baed in Beijing](https://www.didiglobal.com/contact/contact-us)
 
 # Phones
 

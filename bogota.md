@@ -24,6 +24,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - La Perseverancia marketplace
     - [Google map](https://goo.gl/maps/Nn4EURvAZD3xaBhdA)
     - [Bogotá, Colombia](https://www.netflix.com/title/81249660) episode *of Street Food Latin America on Netflix*
+- [Best Restaurants in Bogota according to Tulio Recommends (2023)](https://tuliorecomienda.com/2023/02/18/los-mejores-restaurantes-en-bogota/)
 
 # Street art
 
