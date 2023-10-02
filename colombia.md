@@ -49,6 +49,16 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Site: [exito.com](https://www.exito.com)
 - About: Groceries, home, clothes, and electronics
 
+#### Ara
+
+- Site: [aratiendas.com](https://aratiendas.com)
+- About: Affordable groceries
+
+#### Carulla
+
+- Site: [carulla.com](https://www.carulla.com)
+- About: Upscale groceries
+
 #### Farmatodo
 
 - Site: [farmatodo.com.co](https://www.farmatodo.com.co)
