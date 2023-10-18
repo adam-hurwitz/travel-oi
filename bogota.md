@@ -135,3 +135,8 @@ E.g.
 
 - [Is Bogotá Colombia Worth Visiting?](https://www.youtube.com/watch?v=W4UBoqjGjjg) *by Divert Living on YouTube 2020-03-05*
 - [Five Things I Love About Bogota](https://www.youtube.com/watch?v=fNhxKDtvVs8) *by Nomad Capitalist 2021-11-10*
+
+#### Other
+
+- Rolos is the name for people from Bogotá
+    - [Wikipedia](https://es.wikipedia.org/wiki/Rolo_(Colombia))
