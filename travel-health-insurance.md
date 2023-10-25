@@ -9,6 +9,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Medical features
 
+#### Potential coverage
+
 - You can save a lot of money by purchasing a plan that focuses mostly on medical coverage rather than broad coverage.
 - Overall medical coverage limit
 - Non-emergency medical care
@@ -19,6 +21,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - 24/7 assistance
 - Emergency transportation, e.g. Evacuation
 - etc.
+
+#### Not covered
+
+- Buying a plan for domestic travel within your country of residence if your current domestic provider offers a plan with out-of-state/nation wide coverage, e.g. Having an HMO plan in California and buying a travel insurance plan for Texas is likely not covered.
 
 # Resources
 
