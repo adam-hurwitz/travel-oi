@@ -9,7 +9,13 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Cities
 
-- Bogotá: [hackmd.io/@openinfo/bogota](https://hackmd.io/@openinfo/bogota)
+- Bogotá
+    - [hackmd.io/@openinfo/bogota](https://hackmd.io/@openinfo/bogota)
+- Medellín
+    - [Medellín — The nomad's hidden gem](https://hackernoon.com/medellin-the-nomads-hidden-gem) *by Adam Hurwitz*
+    - [Medellín — A taste of the classics and the best cacao](https://hackernoon.com/medellin-a-taste-of-the-classics-and-the-best-cacao) *by Adam Hurwitz*
+    - [Medellín — Discover the local appeal](https://hackernoon.com/discovering-the-local-appeal-of-medellin) *by Adam Hurwitz*
+    - [Medellín — Work remotely](https://hackernoon.com/my-experience-working-remotely-from-medellin) *by Adam Hurwitz*
 
 # Accommodations
 
