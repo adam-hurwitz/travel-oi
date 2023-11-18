@@ -9,7 +9,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Accommodations
 
-- Colombia open info: [hackmd.io/@openinfo/colombia](https://hackmd.io/@openinfo/colombia)
+- [Colombia accommodations open info](https://hackmd.io/@openinfo/colombia#Accommodations)
 - [Neighborhoods open info](https://docs.google.com/spreadsheets/d/12Bd-2KRwsW8OuQs1QuaAnff5cdECcdHs0QDMvsIOsNs/edit#gid=0&fvid=1522371501)
 - [Accommodations open info](https://docs.google.com/spreadsheets/d/1kuv66HzP6IdnProZeS6uyahRqzpvXRUYVKGyQ9lidc8/edit#gid=2057560892&fvid=662544492)
 
@@ -89,18 +89,15 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [The Best & Safest Neighborhoods To Stay In Bogotá, Colombia](https://bogotivo.com/en/best-bogota-neighborhoods) *by Bogotivo 2022-07-16*
 - La Candelaria
     - Mixed reviews on safety at night
-    - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/2019185021704156/permalink/3747731635516144) *in Expats in Bogotá 2023-05-10* (Private)*
+    - *See [Adam Hurwitz Facebook post](https://www.facebook.com/groups/2019185021704156/permalink/3747731635516144) *in Expats in Bogotá 2023-05-10* (Private, must join the Facebook group)*
 - [Is Bogota Safe for Travel? (Insider Tips 2023)](https://www.thebrokebackpacker.com/is-bogota-safe) *by The Broke Backpacker 2023-05-02*
 
 #### Tap water
 
 - Mostly safe
 - Better to drink bottled water if possible
-    - Tap water is treated with Chlorine
-        - [Chlorine in Drinking Water: The Good, the Bad, and the Ugly](https://www.springwellwater.com/chlorine-drinking-water-good-bad-ugly) *by SpringWell Water Filtration Systems*
-        - [Drinking Water Chlorination: Frequently Asked Questions](https://www.health.state.mn.us/communities/environment/water/factsheet/chlorination.html) *by Minnesota Department of Health*
-    - Water quality can decrease in between the treatment plants and local infrastructure
 - Resources
+    - [Water open info](https://docs.google.com/document/d/17dD4YedWuiw-Q7GSv9WCC2rYfsLmLZoqqXzWitLhXlg/edit#heading=h.2bhuew8sp9qu)
     - [Is Bogota Tap Water Safe To Drink?](https://www.tapsafe.org/bogota-tap-water) *by tapsafe.org*
     - [Can you drink the tap water in Bogotá (Colombia)?](https://tapwaterpro.com/bogot-colombia) *by tapwaterpro.org*
     - [Can you drink the tap water in Bogotá, Colombia?](https://www.myadventurereport.com/water-report/can-you-drink-the-tap-water-in-bogot-colombia) *by My Adventure Report*
@@ -131,12 +128,8 @@ E.g.
 
 - [Gyms to the park](https://www.idrd.gov.co/recreacion/actividad-fisica-y-deporte/actividad-fisica/gimnasios-al-parque) *by Instituto Distrital de Recreación y Deporte (IDRD)*
 
-#### Videos
-
-- [Is Bogotá Colombia Worth Visiting?](https://www.youtube.com/watch?v=W4UBoqjGjjg) *by Divert Living on YouTube 2020-03-05*
-- [Five Things I Love About Bogota](https://www.youtube.com/watch?v=fNhxKDtvVs8) *by Nomad Capitalist 2021-11-10*
-
 #### Other
 
+- [Five Things I Love About Bogota](https://www.youtube.com/watch?v=fNhxKDtvVs8) *by Nomad Capitalist 2021-11-10*
 - Rolos is the name for people from Bogotá
     - [Wikipedia](https://es.wikipedia.org/wiki/Rolo_(Colombia))
