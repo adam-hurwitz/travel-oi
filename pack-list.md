@@ -7,7 +7,7 @@ tags: personal
 
 # Pack
 
-*See pack [open info](https://docs.google.com/document/d/17XOcBsAwC05nIJTQ6dvhv-oM7QRqpMIJHOKN2dF96MU/edit#heading=h.dyp3fyrqi5zd)*
+*See open info: [hackmd.io/@openinfo/packing](https://hackmd.io/@openinfo/packing)*
 
 ## Clothes
 - [ ] Basics
@@ -59,7 +59,9 @@ tags: personal
     - Washing
         - Hand wash to be safe
         - Laundry machine wash
-            - Use a cold and gentle setting
+            - Place inside a pillow case or small laundry mesh bag
+            - Settings: Cold and gentle
+            - Dry: Air dry with a balled up towel underneath the hat to keep it's shape
             - *See [3 Easy Ways to Wash a Baseball Cap](https://www.nike.com/a/how-to-wash-baseball-cap) by Nike*
 - [ ] 1 bathing suit
 - [ ] 1 microfiber towel (Attach to the outside of the carry-on or backpack)
