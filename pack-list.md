@@ -115,21 +115,21 @@ tags: personal
 
 #### P2
 
-- [ ] Sweatpants > More compact/thin sweatpants (Joggers, useful for laundry day)
+- [x] ~~Sweatpants > More compact/thin sweatpants (Joggers, useful for laundry day)~~
 
 # Remove
 
 #### Done
 
-- Food
-    - ~~Large bag of Xylitol gum~~
-- ~~Keyboard~~
-- Personal care products
-    - ~~Water pic~~
-    - ~~Massage oil for Gua Sha physical therapy~~
-    - ~~Large bottle of suntan lotion~~
-    - ~~Extra contact solution~~
-    - ~~Extra toothpaste~~
-    - ~~Ethernet cable~~
-    - ~~Backup USB-C to USB adapter~~
-    - ~~Backup pen and eraser~~
+- [x] Food
+    - [x] ~~Large bag of Xylitol gum~~
+- [x] ~~Keyboard~~
+- [x] Personal care products
+    - [x] ~~Water pic~~
+    - [x] ~~Massage oil for Gua Sha physical therapy~~
+    - [x] ~~Large bottle of suntan lotion~~
+    - [x] ~~Extra contact solution~~
+    - [x] ~~Extra toothpaste~~
+    - [x] ~~Ethernet cable~~
+    - [x] ~~Backup USB-C to USB adapter~~
+    - [x] ~~Backup pen and eraser~~
