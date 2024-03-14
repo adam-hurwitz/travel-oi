@@ -1,9 +1,9 @@
 ---
-title: 🧳 Pack list
+title: 🧳 Packing list
 tags: personal
 ---
 
-<h1 style="text-align: center;">🧳 Pack list</h1>
+<h1 style="text-align: center;">🧳 Packing list</h1>
 
 # Pack
 

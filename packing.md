@@ -16,7 +16,7 @@ tags: travel
 
 #### Sample
 
-- [hackmd.io/@adamhurwitz/packlist](https://hackmd.io/@adamhurwitz/packlist)
+- [hackmd.io/@adamhurwitz/packinglist](https://hackmd.io/@adamhurwitz/packinglist)
 
 # Clothing
 
